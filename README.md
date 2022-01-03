@@ -42,5 +42,4 @@ The Gateway for IPFS can be selected on the options, please refer to https://ipf
 - Redux
 - Chakra UI 
 - useDapp
-# VIVIDHATA-A-BLEND-OF-IDEAS-NFT-Explorer
 
