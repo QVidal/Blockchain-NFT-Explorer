@@ -1,4 +1,4 @@
-### VIVIDHATA A BLEND OF IDEAS NFT Explorer
+### BlockChain NFT Explorer
 
 
 Visualize ERC721 NFT Collections directly from the blockchain. An alternative to OpenSea/Rarible, etc.
