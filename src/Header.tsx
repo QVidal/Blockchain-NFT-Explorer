@@ -79,7 +79,7 @@ const Header = () => {
       >
         <Flex direction="column">
           <Heading textAlign="center" as="h1">
-          VIVIDHATA: A BLEND OF IDEAS NFT Explorer
+          UNSCRIPT ROOKIES HACKATHON 2K22 NFT Explorer
           </Heading>
           <Box pt={5} pb={5} pl={5} pr={5}>
             Enter an<b> Ethereum ERC721</b> Contract Address with the
